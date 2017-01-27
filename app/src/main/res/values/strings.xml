@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLifeCycle</string>
+    <string name="launch_opaque_activity">Launch Opaque Activity</string>
+    <string name="launch_transparent_activity">Launch Transparent Activity</string>
+    <string name="welcome_to_the_main_activity">Welcome to the main Activity</string>
+    <string name="transparent_activity">Transparent Activity</string>
+    <string name="opaque_activity">Opaque Activity</string>
+</resources>
